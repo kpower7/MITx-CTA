@@ -1,0 +1,8 @@
+	Variable costs	Fixed costs
+CW 1	8	100000
+CW 2	10	90000
+CW 3	25	80000
+CW 4	30	70000
+CW 5	50	60000
+
+
